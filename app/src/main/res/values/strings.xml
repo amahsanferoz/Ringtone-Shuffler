@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ringtone Shuffler</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activate">Activate Ringtone Shuffler</string>
+    <string name="deactivate">Deactivate Ringtone Shuffler</string>
+
+    <string name="list_of_ringtones">Ringtones available on this device:</string>
+</resources>
